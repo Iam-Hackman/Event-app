@@ -110,7 +110,7 @@ func main() {
 	fmt.Println(strconv.FormatUint(uint64(y), 2))
 	fmt.Println(strconv.FormatUint(uint64(c), 2))
 
-	num := 20
+	num := 19
 	bitnum := strconv.FormatUint(uint64(num), 2)
 	fmt.Println(20 << 2)
 	fmt.Println(strconv.FormatUint(uint64(num), 2))
